@@ -3,12 +3,12 @@ version: '1'
 services: # Nests our containers under the “services” field
 
   video-streaming:
-    image: video-streaming # Sets the name of the image
+    image: film-streaming # Sets the name of the image
     build: 
     # Sets parameters required for building the image
-      context: ./video-streaming
+      context: ./film-streaming
       dockerfile: Dockerfile
-    container_name: video-streaming
+    container_name: film-streaming
     ports:
      - "4000:80"
     environment:
