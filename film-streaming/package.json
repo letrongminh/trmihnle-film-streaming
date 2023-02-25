@@ -1,0 +1,25 @@
+{
+  "name": "film-streaming",
+  "version": "1.0.0",
+  "description": "A microservice video streaming service.",
+  "scripts": {
+    "test:watch": "cypress open",
+    "test": "cypress run"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.4.1",
+    "mongodb": "^3.5.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/letrongminh/trmihnle-film-streaming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letrongminh/trmihnle-film-streaming/issues"
+  },
+  "homepage": "https://github.com/letrongminh/trmihnle-film-streaming#readme"
+}
