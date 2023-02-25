@@ -1,0 +1,15 @@
+.vagrant/
+.terraform/
+node_modules/
+todo.txt
+ubuntu-xenial-16.04-cloudimg-console.log
+run.log
+film-streaming/video-upload/uploads/
+film-streaming/logs/
+film-streaming/cypress/videos/
+film-streaming/cypress/integration/examples/
+film-streaming/cypress/fixtures/example.json
+*.bak
+film-streaming/mock-storage/storage/
+film-streaming/scripts/terraform.tfstate
+film-streaming/scripts/terraform.tfstate.backup
