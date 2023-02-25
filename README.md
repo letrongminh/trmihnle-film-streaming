@@ -27,7 +27,7 @@ http://localhost:4000 to see main page.
     > docker-compose down <br>
 
 - Testing the application with Cypress
-    > cd chapter-9/example-1 <br>
+    > cd film-streaming <br>
     > npm install <br>
     > npm run test:watch <br>
 
